@@ -1,9 +1,12 @@
 body {
-  background-color: powderblue;
+  background-color: rgb(70, 70, 73);
 }
 h1 {
-  color: blue;
+  color: white;
 }
 p {
-  color: red;
+  color: white;
+}
+li{
+  color: rgb(135, 135, 137);
 }
